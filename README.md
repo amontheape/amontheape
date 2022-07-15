@@ -9,7 +9,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;I've been tinkering with computers since my childhood on my dad's Windows 95 :floppy_disk:. Surely driven by an insatiable curiosity some of my hobbies includes learning about astronomy :satellite: and how humble of an experience it shows to be. I'm also passionate about cinema :movie_camera: and trivia games :books: but not so proud of how many hours I've accumulated on Steam :sweat_smile: 
 
-&nbsp;&nbsp;&nbsp;&nbsp;I'm always amazed by what humans are capable of creating when they put their efforts together, but even more about the process and steps required to achieve a goal. These combined feelings have lead me to looking forward into this eternal journey of studying software development where I'm happily standing right now
+&nbsp;&nbsp;&nbsp;&nbsp;I'm always amazed by what people are capable of creating when they put their efforts together, but even more about the process and steps required to achieve a goal. These combined feelings have lead me into this ongoing journey of studying software development where I'm happily standing
 
 Through this last year I've come to learn some technologies which I'll list bellow
 
